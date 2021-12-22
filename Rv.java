@@ -1,5 +1,6 @@
 import java.util.*;
 public class Rv {
+
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         String str= sc.nextLine();
@@ -17,7 +18,7 @@ public class Rv {
         }
         else
         {
-            System.out.println("Error");
+            System.out.println("Error!!");
         }
     }
     public static String method(String str){
