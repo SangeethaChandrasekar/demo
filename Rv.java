@@ -22,9 +22,5 @@ public class Rv {
         String str = sc.nextLine();
         Reverse reverseString = new Reverse();
         reverseString.methodTwo(str);
-        method(str);
-    }
-    public static String method (String str){
-        return str;
     }
 }
